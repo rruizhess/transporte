@@ -12,7 +12,7 @@ package javaapplication26;
 public class prueba123 {
     
     public void muestranombre1(){
-     System.out.println("hola mundo!!!!");
+     System.out.println("hola mundo!!!!!");
     }
     
 }
